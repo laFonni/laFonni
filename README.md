@@ -15,7 +15,7 @@
 
 - 👨‍🎓 **Computer Science and Intelligent Systems** student at the **Faculty of Electrical Engineering, Automatics, Computer Science, and Biomedical Engineering** at the **AGH University of Science and Technology**,
 
-- 📚 I'm currently learning:💙 React by creating clone of Volvo Website 🚗,
+- 📚 I'm currently learning:<3 C# <3,
 
 - 🎯 Goal: To accommodate as much knowledge as I can,
 
@@ -66,6 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 <br>
@@ -84,6 +86,8 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 <br>
