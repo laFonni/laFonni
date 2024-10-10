@@ -15,7 +15,7 @@
 
 - 👨‍🎓 **Computer Science and Intelligent Systems** student at the **Faculty of Electrical Engineering, Automatics, Computer Science, and Biomedical Engineering** at the **AGH University of Science and Technology**,
 
-- 📚 I'm currently learning:<3 C# <3,
+- 📚 I'm currently learning: ML/AI usege,
 
 - 🎯 Goal: To accommodate as much knowledge as I can,
 
