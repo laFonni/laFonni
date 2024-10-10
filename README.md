@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Olaf 😎</h1>
 
 
-<h3 align="center">❕❗ I'm a second-year student from Poland 🤍❤</h3>
+<h3 align="center">❕❗ I'm a third-year student from Poland 🤍❤</h3>
 
 
 
@@ -107,7 +107,7 @@
 
 <br>
 <h2 align="center">💻 Public projects and contributions</h2>
-<h3>🌐 Web apps</h2>
+<h3>🌐 Web apps</h3>
 <div>
   <a href="https://github.com/laFonni/Volvo-Website">
     <picture>
@@ -117,7 +117,20 @@
   </a>
 </div>
 <br>
-<h3>Backend REST API</h2>
+
+<br>
+<h3>🗣️Natural language processing in AI systems🤖</h3>
+<div>
+  <a href="https://github.com/laFonni/ZipfLawProject">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=ZipfLawProject&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/laFonni/ZipfLawProject" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=ZipfLawProject&hide_border=true&title_color=222" />
+    </picture>
+  </a>
+</div>
+<br>
+
+<h3>Backend REST API</h3>
 <div>
   <a href="https://github.com/laFonni/REST-API-Breakfast">
     <picture>
