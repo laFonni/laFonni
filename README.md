@@ -55,6 +55,8 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -107,6 +109,15 @@
 
 <br>
 <h2 align="center">💻 Public projects and contributions</h2>
+<h3>SSD-Drone_Swarm_Simulation</h3>
+ <a href="https://github.com/laFonni/SSD-Drone_Swarm_Simulation">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=SSD-Drone_Swarm_Simulation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/laFonni/SSD-Drone_Swarm_Simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=SSD-Drone_Swarm_Simulationv&hide_border=true&title_color=222" />
+    </picture>
+    </a>
+</div>
+
 <h3>🌐 Web apps</h3>
 <div>
   <a href="https://github.com/laFonni/Volvo-Website">
@@ -117,28 +128,46 @@
   </a>
 </div>
 <br>
+<h3>Turist Trips Evaluation</h3>
+ <a href="https://github.com/laFonni/Turist-Trips-Evaluation">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=Turist-Trips-Evaluation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/laFonni/Turist-Trips-Evaluation" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=Turist-Trips-Evaluation&hide_border=true&title_color=222" />
+    </picture>
+    </a>
+</div>
 
 <br>
-<h3>🗣️Natural language processing in AI systems🤖</h3>
-<div>
-  <a href="https://github.com/laFonni/ZipfLawProject">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=ZipfLawProject&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/laFonni/ZipfLawProject" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=ZipfLawProject&hide_border=true&title_color=222" />
+<h3>IoT-PlantKeeper</h3>
+ <a href="https://github.com/laFonni/IoT-PlantKeeper">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=IoT-PlantKeeper&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/laFonni/IoT-PlantKeeper" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=IoT-PlantKeeper&hide_border=true&title_color=222" />
     </picture>
-  </a>
+   </a>
 </div>
 <br>
 
-<h3>Backend REST API</h3>
-<div>
-  <a href="https://github.com/laFonni/REST-API-Breakfast">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=REST-API-Breakfast&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/laFonni/REST-API-Breakfast" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=REST-API-Breakfast&hide_border=true&title_color=222" />
+<br>
+<h3>loadBalancer</h3>
+ <a href="https://github.com/olaignacyk/loadBalancer">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=olaignacyk&repo=loadBalancer&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/olaignacyk/loadBalancer" src="https://github-readme-stats.vercel.app/api/pin/?username=olaignacyk1&repo=loadBalancer&hide_border=true&title_color=222" />
     </picture>
-  </a>
+   </a>
 </div>
+<br>
+  
+<h3>medical-appointment-app</h3>
+ <a href="https://github.com/laFonni/medical-appointment-app">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=medical-appointment-app&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="420px" alt="https://github.com/laFonni/medical-appointment-app" src="https://github-readme-stats.vercel.app/api/pin/?username=laFonni1&repo=medical-appointment-app&hide_border=true&title_color=222" />
+    </picture>
+    </a>
+</div>
+
 <br>
 <br>
 <div align="center">
