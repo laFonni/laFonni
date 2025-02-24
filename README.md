@@ -36,7 +36,7 @@
     <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=laFonni&background=0d1117&border=0d1117&ring=0e40c9&fire=fff&currStreakNum=fff&sideNums=0e40c9&currStreakLabel=0e40c9&sideLabels=eee&dates=bbb" />
     <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=laFonni&ring=0055ff&fire=000&currStreakNum=000&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=222&dates=333&hide_border=true" />
   </picture>
-  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=laFonni&count_private=true&show_icons=true&title_color=fff&icon_color=d7d8e0&bg_color=60,4a2870,043873,0055ff&hide_border=true&text_color=d7d8e0&border_radius=5"/>
+<!--   <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=laFonni&count_private=true&show_icons=true&title_color=fff&icon_color=d7d8e0&bg_color=60,4a2870,043873,0055ff&hide_border=true&text_color=d7d8e0&border_radius=5"/> -->
 </div>
 <br>
 
@@ -44,7 +44,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=laFonni&bg_color=0d1117&color=bbb&line=1342c2&point=fff&hide_border=true&custom_title=Activity%20Chart" />
   <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=laFonni&bg_color=fefefe&color=222&line=1342c2&point=000&hide_border=true&custom_title=Activity%20Chart" />
 </picture>
-
 
 <br>
 
