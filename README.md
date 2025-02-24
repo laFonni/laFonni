@@ -90,7 +90,24 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/EEEEEE" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
+
 
 <br>
 
