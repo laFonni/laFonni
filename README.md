@@ -125,7 +125,7 @@
 
 <br>
 <h2 align="center">💻 Public projects and contributions</h2>
-<h3>SSD-Drone_Swarm_Simulation</h3>
+<h3> 🚁 Drone_Swarm_Simulation</h3>
  <a href="https://github.com/laFonni/SSD-Drone_Swarm_Simulation">
   <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=SSD-Drone_Swarm_Simulation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
@@ -144,7 +144,7 @@
   </a>
 </div>
 <br>
-<h3>Turist Trips Evaluation</h3>
+<h3>🧳🗺️Turist Trips Evaluation</h3>
  <a href="https://github.com/laFonni/Turist-Trips-Evaluation">
   <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=Turist-Trips-Evaluation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
@@ -154,7 +154,7 @@
 </div>
 
 <br>
-<h3>IoT-PlantKeeper</h3>
+<h3>🍀 IoT-PlantKeeper</h3>
  <a href="https://github.com/laFonni/IoT-PlantKeeper">
   <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=IoT-PlantKeeper&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
@@ -165,7 +165,7 @@
 <br>
 
 <br>
-<h3>loadBalancer</h3>
+<h3>🔀 loadBalancer</h3>
  <a href="https://github.com/olaignacyk/loadBalancer">
   <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=olaignacyk&repo=loadBalancer&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
@@ -175,7 +175,7 @@
 </div>
 <br>
   
-<h3>medical-appointment-app</h3>
+<h3>💊💬 medical-appointment-app</h3>
  <a href="https://github.com/laFonni/medical-appointment-app">
   <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=laFonni&repo=medical-appointment-app&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
